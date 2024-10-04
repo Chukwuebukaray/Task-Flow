@@ -1,0 +1,97 @@
+.rightmenu{
+    width: 353px;
+    height: inherit;
+    left: 1087px;
+    top: 0;
+    gap: 0px;
+    border-left: 1px solid #E6E4F0;
+    background: #fff;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.rightmenu .frame52{
+    width: 306px;
+}
+
+.todos{
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.todobox{
+    width: 306px;
+    height: fit-content;
+    padding: 12px 10px ;
+    gap: 10px;
+    border-radius: 10px;
+    opacity: 0px;
+    background: #F9F8FF;
+    border: 1px solid #E6E4F0;
+}
+
+.down{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.date{
+    font-family: Plus Jakarta Sans;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 15.12px;
+    text-align: left;
+    color: #BBBABE;
+    display: flex;
+    align-items: center;
+}
+
+.todo{
+    font-family: Plus Jakarta Sans;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 17.64px;
+        text-align: left;
+        display: flex;
+        gap: 3px;
+}
+
+.checked{
+    color: #5577FFCC;
+    text-decoration: line-through;
+}
+
+.notes .calendarbox{
+    width: 304px;
+    box-shadow: 0px 4px 8px 0px #06031514;
+}
+
+.frame74{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.note h4{
+font-family: Plus Jakarta Sans;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17.64px;
+    text-align: left;
+    margin-top: 5px;
+    margin-bottom: 0;
+    
+}
+
+.note p{
+    font-family: Plus Jakarta Sans;
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 15.12px;
+        text-align: left;
+        margin-top: 4px;
+}

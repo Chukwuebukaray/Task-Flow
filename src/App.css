@@ -1,0 +1,10 @@
+.element{
+  display: flex;
+  justify-content: space-between;
+  height: 1100px;
+}
+
+.middle{
+  width: 880px;
+}
+

@@ -1,0 +1,254 @@
+.sidebar{
+    background: #fff;
+    width: 257px;
+    height: inherit;
+    gap: 0px;
+    opacity: 0px;
+    border-right: 1px solid #E6E4F0;
+}
+
+.logo{
+    width: 160.31px;
+    height: 38px;
+    padding-left: 20px;
+    gap: 8px;
+    opacity: 0px;
+    display: flex;    
+}
+
+.logo img{
+    width: 38px;
+    height: 38px;
+    padding-top: 30px;
+    left: 30px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.logo h3{
+    width: 110px;
+    height: 30px;
+    padding-top: 12px;
+    left: 80.31px;
+    font-family: Plus Jakarta Sans;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 30.24px;
+    text-align: left;
+}
+
+.menu ul{
+    width: 217px;
+    height: 175px;
+    padding-top: 53px;
+    padding-left: 20px;
+    margin: 0;
+    list-style: none;
+}
+
+.menu ul li{
+    display: flex;
+}
+
+.menu .fili{
+    width: 197px;
+}
+
+.dropdown{
+    width: 10px;
+    height: 7px;
+    align-self: center;
+    margin-left: 85px;
+}
+
+
+.menu ul li{
+    padding: 3px;
+    width: Fixed (197px)px;
+    height: Hug (28px)px;
+    gap: 8px;
+    opacity: 0px;
+    color: #9896A3;
+}
+
+.menu .lali{
+    width: 197px;
+    height: Hug (44px)px;
+    padding: 11px 3px 11px 3px;
+    gap: 8px;
+    background: #bbb;
+    color: #fff;
+    background: #5577FF;
+    border-radius: 12px;
+}
+
+.menu .lali img{
+    width: 21px;
+}
+
+.projects{
+    height: fit-content;
+}
+
+.projects .heading, .tasks .heading{
+    /* background: #bbb; */
+    width: 217px;
+    height: 41px;
+    top: 351px;
+    padding: 0px 10px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    display: flex;
+    justify-content: space-between;
+    opacity: 0px;
+    border-top: 1px solid #E6E4F0;
+    margin: auto 10px;
+}
+
+.projects h2, .tasks h2{
+    width: 82px;
+    height: 41px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Plus Jakarta Sans;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 40.6px;
+    text-align: left;
+    color: #D3D2DC;
+}
+
+.projects .heading img, .tasks .heading img{
+    width: 16px;
+    height: 16px;
+    margin-top: 20px;
+}
+
+.projects ul{
+    padding-top: 0px;
+    margin-left: 0;
+    list-style: none;
+    padding-bottom: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    /* height: 116px; */
+}
+
+
+.projects ul li{
+    margin-bottom: 13px;
+    color: #9896A3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Plus Jakarta Sans;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 17.64px;
+        text-align: left;
+}
+
+.projects ul li text{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.video, .wallet{
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}
+
+.projects ul li img{
+    width: 25px;
+    height: 25px;
+}
+
+.tasks ul{
+    padding-top: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.tasks ul li{
+    padding-bottom: 15px;
+    height: 18px;
+    gap: 5px;
+    opacity: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Plus Jakarta Sans;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17.64px;
+    text-align: left;
+    color: #9896A3;
+}
+
+.tasks ul li text{
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}
+
+.user{
+    display: flex;
+    justify-content: center;
+    width: 223px;
+    height: 50px;
+    position: fixed;
+    bottom: 1%;
+    left: 0.5%;
+    padding: 8px;
+    gap: 30px;
+    border: 1px solid #E6E4F0;
+    border-radius: 10px;
+}
+
+.user-info {
+    display: flex;
+    margin-bottom: 20px;
+    font-size: 15px;
+    gap: 15px;
+}
+
+.user-info img {
+    width: 48px;
+    height: 48px;
+    border-radius: 5px 0px 0px 0px;
+    color: #B1DBF6;
+}
+
+
+.user-infotext{
+    width: 99px;
+}
+
+.user-infotext h3{
+    width: 99px;
+    height: 5px;
+    font-family: Plus Jakarta Sans;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17.64px;
+    text-align: left;
+    color: #53515B;
+}
+
+.user-infotext span{
+    width: 89px;
+    font-family: Plus Jakarta Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.64px;
+    text-align: left;
+    color: #A0A0A3;
+}
+
+.settings{
+    width: 20px;
+    height: 20px;
+    align-self: center;
+}

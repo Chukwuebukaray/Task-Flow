@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+body{
+    margin: 0;
+    background: #f4f3f3;
+}
+
+.categories {
+    height: 23px;
+    display: flex;
+    gap: 3px;
+}
+
+.category {
+    padding: 4px 10px 4px 10px;
+    gap: 10px;
+    border-radius: 33px;
+    opacity: 0px;
+    font-family: Plus Jakarta Sans;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 15.12px;
+    text-align: left;
+}
+
+.purple {
+    background: #7B68EE4D;
+    color: #7B68EE;
+}
+
+.green {
+    background: #00B8844D;
+    color: #00B884;
+}
+
+.cyan {
+    background: #49CCF94D;
+    color: #49CCF9;
+}
+
+.blue {
+    background: #5577FF4D;
+    color: #5577FF;
+}
+
+.red {
+    background: #FD71AF4D;
+    color: #FD71AF;
+}
+
+.yellow{
+    background: #FFC8004D;
+    color: #FFC800;
+}
+
+.username {
+    background: #dddddd4d;
+    gap: 10px;
+    width: fit-content;
+    height: fit-content;
+    font-family: Plus Jakarta Sans;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17.64px;
+    text-align: left;
+    padding: 6px 8px;
+    gap: 5px;
+    border-radius: 7px;
+    opacity: 0px;
+    color: #9D9BA1;
+    background: #E9E8EC;
+}
+
+.frame52 {
+    height: 28px;
+    padding: 3px 0px 5px 0px;
+    gap: 0px;
+    display: flex;
+    justify-content: space-between;
+    opacity: 0px;
+    border-bottom: 1px solid #E6E4F0;
+    margin: 10px;
+}
+
+
+.frame50 {
+    display: flex;
+    align-items: center;
+    font-family: Plus Jakarta Sans;
+    gap: 5px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17.64px;
+    text-align: left;
+    color: #82808F;
+}
+
+.calendarbox {
+    background: #fff;
+    height: fit-content;
+    padding: 16px;
+    border-radius: 10px;
+    border: 1px solid #E6E4F0;
+    margin-bottom: 15px;
+}
