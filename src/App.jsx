@@ -1,5 +1,4 @@
 import React from "react";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Sidebar from "./Sidebar/Sidebar.jsx";
 import RightMenu from "./RightMenu/RightMenu.jsx";
 import "./App.css";
