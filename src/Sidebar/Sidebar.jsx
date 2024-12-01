@@ -1,8 +1,8 @@
 import React from "react";
 import "./Sidebar.css";
 import logo from "../assets/logo.png";
-import category from "../assets/category.png";
-import vector from "../assets/vector 1.png";
+import category from "../assets/Category.png";
+import vector from "../assets/Vector 1.png";
 import user from "../assets/Rectangle 5.png";
 import flowershop from "../assets/Flowershop.png";
 import cloth from "../assets/Cloth.png";

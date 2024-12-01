@@ -1,10 +1,16 @@
 .element{
   display: flex;
   justify-content: space-between;
-  height: 1100px;
+  
+  /* height: 1100px; */
 }
 
 .middle{
-  width: 880px;
+  max-width: 880px;
 }
 
+@media (max-width: 500px) {
+  .element{
+    /* flex-direction: column;     */
+  }  
+}

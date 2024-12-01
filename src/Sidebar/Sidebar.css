@@ -1,10 +1,11 @@
 .sidebar{
     background: #fff;
-    width: 257px;
+    /* width: 257px; */
     height: inherit;
     gap: 0px;
     opacity: 0px;
     border-right: 1px solid #E6E4F0;
+    position: relative;
 }
 
 .logo{
@@ -198,9 +199,9 @@
     justify-content: center;
     width: 223px;
     height: 50px;
-    position: fixed;
+    position: absolute;
     bottom: 1%;
-    left: 0.5%;
+    left: 3%;
     padding: 8px;
     gap: 30px;
     border: 1px solid #E6E4F0;
@@ -251,4 +252,12 @@
     width: 20px;
     height: 20px;
     align-self: center;
+}
+
+
+
+@media (max-width: 500px) {
+    .sidebar{
+        display: none;
+    }
 }

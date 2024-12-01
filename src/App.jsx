@@ -3,7 +3,7 @@ import Sidebar from "./Sidebar/Sidebar.jsx";
 import RightMenu from "./RightMenu/RightMenu.jsx";
 import "./App.css";
 import Overview from "./Overview/Overview.jsx";
-import Calender from "./Calender/Calendar.jsx";
+import Calender from "./Calendar/Calendar.jsx";
 
 function App() {
   return (

@@ -74,7 +74,7 @@ const Overview = () => {
             <div className="tags">
               <img src={timecircle} alt="" /> Created at
             </div>
-            <div className="right">May 15 20222 14:23 PM</div>
+            <div className="right">May 15 2022 14:23 PM</div>
           </div>
 
           <div className="info">
