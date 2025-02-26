@@ -2,7 +2,7 @@ import React from "react";
 import "./RightMenu.css";
 import frame8 from "../assets/Frame 8.png";
 import vector from "../assets/Vector.png";
-import paper from "../assets/paper.png";
+import paper from "../assets/Paper.png";
 
 
 const RightMenu = () => {
