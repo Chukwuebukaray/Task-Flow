@@ -1,10 +1,9 @@
 import React from "react";
 import "./Calendar.css";
-import paper from "../assets/paper.png";
-import calendar from "../assets/calendar.png";
-import calendarwhite from "../assets/calendarwhite.png";
-import category from "../assets/category.png";
-import tags from "../assets/tags.png";
+import paper from "../assets/Paper.png";
+import calendarwhite from "../assets/Calendarwhite.png";
+import category from "../assets/Category.png";
+import tags from "../assets/Tags.png";
 import options from "../assets/Options.png";
 import open from "../assets/Open.png";
 import inprogress from "../assets/InProgress.png";
