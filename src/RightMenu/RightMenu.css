@@ -1,5 +1,6 @@
 .rightmenu{
-    /* max-width: 353px; */
+    max-width: 353px;
+    width: 100%;
     height: inherit;
     border-left: 1px solid #E6E4F0;
     background: #fff;

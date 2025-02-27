@@ -45,10 +45,20 @@
     padding-left: 20px;
     margin: 0;
     list-style: none;
+    
 }
 
 .menu ul li{
     display: flex;
+    align-items: center;
+    font-family: Plus Jakarta Sans;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17.64px;
+    text-align: left;
+    padding: 3px;
+    gap: 8px;
+    color: #9896A3;
 }
 
 .menu .fili{
@@ -60,16 +70,6 @@
     height: 7px;
     align-self: center;
     margin-left: 85px;
-}
-
-
-.menu ul li{
-    padding: 3px;
-    width: Fixed (197px)px;
-    height: Hug (28px)px;
-    gap: 8px;
-    opacity: 0px;
-    color: #9896A3;
 }
 
 .menu .lali{

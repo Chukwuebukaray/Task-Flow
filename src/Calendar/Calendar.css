@@ -87,15 +87,28 @@
     .calendar{
         width: 100%;
     }
-
-    /* .frame63{
+        
+        .calendar {
+            width: 100%;
+        }
+        
+        .frame63 {
+            flex-direction: column;
+            align-items: center;
+        }
+        
+        .frame60 {
+            width: 100%;
+        }
+        
+            /* .frame63{
         flex-direction: column;
         align-items: center;
     }
     
     .frame60{
         width: 100%;
-    } */
-}
+        } */
+        }
 
 
